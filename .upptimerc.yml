@@ -9,7 +9,7 @@ sites:
     url: $WINDOWS_SERVER
   - name: Storage-Server
     url: $STORAGE_SERVER
-    icon: https://e7.pngegg.com/pngimages/915/751/png-clipart-computer-icons-data-storage-database-computer-software-remove-storage-icon-miscellaneous-service.png
+    icon: /logo/storage.png
   - name: File-Server
     url: $FILE_SERVER
   - name: Syscserver
