@@ -1,7 +1,7 @@
 url: https://nas.nipponschoolnepal.com
-status: up
-code: 200
-responseTime: 993
-lastUpdated: 2024-09-08T07:23:49.903Z
+status: down
+code: 502
+responseTime: 4274
+lastUpdated: 2024-09-08T07:30:32.619Z
 startTime: 2024-09-08T06:58:01.989Z
 generator: Upptime <https://github.com/upptime/upptime>
