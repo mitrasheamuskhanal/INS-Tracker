@@ -5,15 +5,19 @@ repo: INS-Tracker # The name of this repository
 sites:
   - name: Main-Server
     url: $MAIN_SERVER
+    icon: /logo/main.png
   - name: Windows-Server
     url: $WINDOWS_SERVER
+    icon: /logo/windows.png
   - name: Storage-Server
     url: $STORAGE_SERVER
     icon: /logo/storage.png
   - name: File-Server
     url: $FILE_SERVER
+    icon: /logo/file.png
   - name: Syscserver
     url: $SYSCSERVER
+    icon: /logo/sysc.png
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
