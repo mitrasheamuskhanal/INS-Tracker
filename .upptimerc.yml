@@ -10,7 +10,7 @@ sites:
   - name: Storage-Server
     url: https://nas.nipponschoolnepal.com
   - name: File-Server
-    url: https://files.nipponschoolnepal.com
+    url: ${FILE_SERVER}
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
