@@ -40,19 +40,19 @@
     "url": "https://nas.nipponschoolnepal.com",
     "icon": "https://icons.duckduckgo.com/ip3/nas.nipponschoolnepal.com.ico",
     "slug": "storage-server",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 1062,
-    "timeDay": 1062,
-    "timeWeek": 1062,
-    "timeMonth": 1062,
-    "timeYear": 1062,
+    "status": "up",
+    "uptime": "83.84%",
+    "uptimeDay": "83.84%",
+    "uptimeWeek": "83.84%",
+    "uptimeMonth": "83.84%",
+    "uptimeYear": "83.84%",
+    "time": 1101,
+    "timeDay": 1101,
+    "timeWeek": 1101,
+    "timeMonth": 1101,
+    "timeYear": 1101,
     "dailyMinutesDown": {
-      "2024-09-08": 0
+      "2024-09-08": 6
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://files.nipponschoolnepal.com",
     "icon": "https://icons.duckduckgo.com/ip3/files.nipponschoolnepal.com.ico",
     "slug": "file-server",
-    "status": "down",
-    "uptime": "99.02%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.02%",
-    "time": 997,
-    "timeDay": 997,
-    "timeWeek": 997,
-    "timeMonth": 997,
-    "timeYear": 997,
+    "status": "up",
+    "uptime": "71.44%",
+    "uptimeDay": "71.44%",
+    "uptimeWeek": "71.44%",
+    "uptimeMonth": "71.44%",
+    "uptimeYear": "71.44%",
+    "time": 1134,
+    "timeDay": 1134,
+    "timeWeek": 1134,
+    "timeMonth": 1134,
+    "timeYear": 1134,
     "dailyMinutesDown": {
-      "2024-09-08": 0
+      "2024-09-08": 4
     }
   }
 ]
