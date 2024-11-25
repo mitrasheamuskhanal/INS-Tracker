@@ -1,7 +1,7 @@
 url: $SYSCSERVER
-status: up
-code: 200
-responseTime: 922
-lastUpdated: 2024-11-24T23:13:37.266Z
+status: down
+code: 530
+responseTime: 148
+lastUpdated: 2024-11-25T13:01:51.316Z
 startTime: 2024-09-08T08:58:21.971Z
 generator: Upptime <https://github.com/upptime/upptime>
