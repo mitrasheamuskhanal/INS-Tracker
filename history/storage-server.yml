@@ -1,7 +1,7 @@
 url: $STORAGE_SERVER
-status: down
-code: 530
-responseTime: 126
-lastUpdated: 2025-02-02T15:30:11.767Z
+status: up
+code: 200
+responseTime: 3051
+lastUpdated: 2025-02-02T16:17:21.476Z
 startTime: 2024-09-08T06:58:01.989Z
 generator: Upptime <https://github.com/upptime/upptime>
