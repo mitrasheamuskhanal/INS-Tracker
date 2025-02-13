@@ -1,7 +1,7 @@
 url: $FILE_SERVER
-status: down
-code: 530
-responseTime: 92
-lastUpdated: 2025-02-13T04:40:20.716Z
+status: up
+code: 200
+responseTime: 9263
+lastUpdated: 2025-02-13T04:48:53.407Z
 startTime: 2024-09-08T07:23:50.088Z
 generator: Upptime <https://github.com/upptime/upptime>
