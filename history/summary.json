@@ -417,17 +417,17 @@
     "url": "https://vividcraft.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/vividcraft.com.au.ico",
     "slug": "vividcraft",
-    "status": "up",
-    "uptime": "92.82%",
-    "uptimeDay": "27.44%",
+    "status": "down",
+    "uptime": "93.16%",
+    "uptimeDay": "27.42%",
     "uptimeWeek": "80.61%",
     "uptimeMonth": "91.83%",
-    "uptimeYear": "92.82%",
-    "time": 879,
-    "timeDay": 575,
-    "timeWeek": 708,
-    "timeMonth": 820,
-    "timeYear": 879,
+    "uptimeYear": "93.16%",
+    "time": 878,
+    "timeDay": 519,
+    "timeWeek": 681,
+    "timeMonth": 811,
+    "timeYear": 878,
     "dailyMinutesDown": {
       "2025-05-15": 781,
       "2025-05-14": 263,
@@ -516,9 +516,7 @@
       "2024-10-29": 378,
       "2024-10-27": 19,
       "2024-10-19": 94,
-      "2024-10-18": 19,
-      "2024-10-16": 531,
-      "2024-10-15": 684
+      "2024-10-18": 19
     }
   }
 ]
