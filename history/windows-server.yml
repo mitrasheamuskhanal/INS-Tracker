@@ -1,7 +1,7 @@
 url: $WINDOWS_SERVER
-status: up
-code: 200
-responseTime: 1074
-lastUpdated: 2025-07-05T23:14:04.785Z
+status: down
+code: 530
+responseTime: 73
+lastUpdated: 2025-07-06T07:37:35.777Z
 startTime: 2024-09-08T06:57:59.708Z
 generator: Upptime <https://github.com/upptime/upptime>
