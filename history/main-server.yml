@@ -1,7 +1,7 @@
 url: $MAIN_SERVER
-status: down
-code: 530
-responseTime: 151
-lastUpdated: 2025-07-22T13:48:44.531Z
+status: up
+code: 200
+responseTime: 852
+lastUpdated: 2025-07-22T14:29:37.017Z
 startTime: 2024-09-08T06:58:00.854Z
 generator: Upptime <https://github.com/upptime/upptime>
