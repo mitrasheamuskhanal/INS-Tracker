@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 792,
-    "timeDay": 514,
-    "timeWeek": 514,
-    "timeMonth": 514,
-    "timeYear": 514,
+    "time": 790,
+    "timeDay": 504,
+    "timeWeek": 504,
+    "timeMonth": 504,
+    "timeYear": 504,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,17 @@
     "slug": "windows-server",
     "status": "down",
     "uptime": "95.24%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 806,
+    "time": 805,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-26": 14
+      "2026-11-26": 19
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$STORAGE_SERVER",
     "icon": "/logo/storage.png",
     "slug": "storage-server",
-    "status": "down",
+    "status": "up",
     "uptime": "95.42%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1330,
-    "timeDay": 3433,
-    "timeWeek": 3433,
-    "timeMonth": 3433,
-    "timeYear": 3433,
+    "time": 1326,
+    "timeDay": 2128,
+    "timeWeek": 2128,
+    "timeMonth": 2128,
+    "timeYear": 2128,
     "dailyMinutesDown": {
-      "2026-11-26": 13
+      "2026-11-26": 16
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "$FILE_SERVER",
     "icon": "/logo/file.png",
     "slug": "file-server",
-    "status": "down",
+    "status": "up",
     "uptime": "95.30%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 2106,
-    "timeDay": 3977,
-    "timeWeek": 3977,
-    "timeMonth": 3977,
-    "timeYear": 3977,
+    "time": 2101,
+    "timeDay": 2552,
+    "timeWeek": 2552,
+    "timeMonth": 2552,
+    "timeYear": 2552,
     "dailyMinutesDown": {
-      "2026-11-26": 13
+      "2026-11-26": 16
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "$SYSCSERVER",
     "icon": "/logo/sysc.png",
     "slug": "syscserver",
-    "status": "down",
+    "status": "up",
     "uptime": "95.32%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 765,
-    "timeDay": 3561,
-    "timeWeek": 3561,
-    "timeMonth": 3561,
-    "timeYear": 3561,
+    "timeDay": 2313,
+    "timeWeek": 2313,
+    "timeMonth": 2313,
+    "timeYear": 2313,
     "dailyMinutesDown": {
-      "2026-11-26": 13
+      "2026-11-26": 15
     }
   },
   {
@@ -108,13 +108,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 792,
+    "time": 795,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-26": 447,
+      "2026-11-26": 452,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -487,18 +487,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/jp-os.mitramanikhanal.com.np.ico",
     "slug": "jp-node-1",
     "status": "down",
-    "uptime": "14.35%",
-    "uptimeDay": "14.35%",
-    "uptimeWeek": "14.35%",
-    "uptimeMonth": "14.35%",
-    "uptimeYear": "14.35%",
-    "time": 30466,
-    "timeDay": 30466,
-    "timeWeek": 30466,
-    "timeMonth": 30466,
-    "timeYear": 30466,
+    "uptime": "10.03%",
+    "uptimeDay": "10.03%",
+    "uptimeWeek": "10.03%",
+    "uptimeMonth": "10.03%",
+    "uptimeYear": "10.03%",
+    "time": 30457,
+    "timeDay": 30457,
+    "timeWeek": 30457,
+    "timeMonth": 30457,
+    "timeYear": 30457,
     "dailyMinutesDown": {
-      "2026-11-26": 10
+      "2026-11-26": 16
     }
+  },
+  {
+    "name": "NP-NODE1",
+    "url": "https://np-os.mitramanikhanal.com.np",
+    "icon": "https://icons.duckduckgo.com/ip3/np-os.mitramanikhanal.com.np.ico",
+    "slug": "np-node-1",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 930,
+    "timeDay": 930,
+    "timeWeek": 930,
+    "timeMonth": 930,
+    "timeYear": 930,
+    "dailyMinutesDown": {}
   }
 ]
