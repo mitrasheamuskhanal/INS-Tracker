@@ -23,18 +23,18 @@
     "icon": "/logo/windows.png",
     "slug": "windows-server",
     "status": "down",
-    "uptime": "95.02%",
+    "uptime": "95.00%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.18%",
-    "uptimeMonth": "93.60%",
-    "uptimeYear": "99.47%",
+    "uptimeWeek": "69.93%",
+    "uptimeMonth": "93.08%",
+    "uptimeYear": "99.42%",
     "time": 802,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-28": 358,
+      "2026-11-28": 584,
       "2026-11-27": 1440,
       "2026-11-26": 1007
     }
@@ -44,19 +44,20 @@
     "url": "$STORAGE_SERVER",
     "icon": "/logo/storage.png",
     "slug": "storage-server",
-    "status": "up",
+    "status": "down",
     "uptime": "95.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1325,
-    "timeDay": 1427,
-    "timeWeek": 1733,
-    "timeMonth": 1733,
-    "timeYear": 1733,
+    "time": 1315,
+    "timeDay": 729,
+    "timeWeek": 1392,
+    "timeMonth": 1392,
+    "timeYear": 1392,
     "dailyMinutesDown": {
-      "2026-11-26": 16
+      "2026-11-26": 16,
+      "2026-11-28": 4
     }
   },
   {
@@ -64,19 +65,20 @@
     "url": "$FILE_SERVER",
     "icon": "/logo/file.png",
     "slug": "file-server",
-    "status": "up",
+    "status": "down",
     "uptime": "95.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 2095,
-    "timeDay": 670,
-    "timeWeek": 1656,
-    "timeMonth": 1656,
-    "timeYear": 1656,
+    "time": 2048,
+    "timeDay": 356,
+    "timeWeek": 1333,
+    "timeMonth": 1333,
+    "timeYear": 1333,
     "dailyMinutesDown": {
-      "2026-11-26": 16
+      "2026-11-26": 16,
+      "2026-11-28": 4
     }
   },
   {
@@ -84,19 +86,20 @@
     "url": "$SYSCSERVER",
     "icon": "/logo/sysc.png",
     "slug": "syscserver",
-    "status": "up",
-    "uptime": "95.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "status": "down",
+    "uptime": "95.34%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 769,
-    "timeDay": 965,
-    "timeWeek": 1637,
-    "timeMonth": 1637,
-    "timeYear": 1637,
+    "time": 766,
+    "timeDay": 499,
+    "timeWeek": 1316,
+    "timeMonth": 1316,
+    "timeYear": 1316,
     "dailyMinutesDown": {
-      "2026-11-26": 15
+      "2026-11-26": 15,
+      "2026-11-28": 4
     }
   },
   {
@@ -134,7 +137,7 @@
     "timeMonth": 30427,
     "timeYear": 30427,
     "dailyMinutesDown": {
-      "2026-11-28": 358,
+      "2026-11-28": 584,
       "2026-11-27": 1440,
       "2026-11-26": 1003
     }
@@ -144,17 +147,19 @@
     "url": "https://np-os.mitramanikhanal.com.np",
     "icon": "https://icons.duckduckgo.com/ip3/np-os.mitramanikhanal.com.np.ico",
     "slug": "np-node-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 884,
-    "timeDay": 827,
-    "timeWeek": 884,
-    "timeMonth": 884,
-    "timeYear": 884,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 8301,
+    "timeDay": 15690,
+    "timeWeek": 8301,
+    "timeMonth": 8301,
+    "timeYear": 8301,
+    "dailyMinutesDown": {
+      "2026-11-28": 0
+    }
   }
 ]
